@@ -1,0 +1,12 @@
+{
+  "perros": [
+    {
+      "nombre": "Bicha"
+    }
+  ],
+  "gatos": [
+    {
+      "nombre": "Molly"
+    }
+  ]
+}
