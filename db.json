@@ -1,6 +1,7 @@
 {
   "mascotas": [
     {
+      "id": 0,
       "nombre": "Bicha",
       "edad": "1 año",
       "imagen": "https://www.guapet.es/images/mascotas/895376_nyno2.jpg",
@@ -9,6 +10,7 @@
       "comidaFavorita": "Atún"
     },
     {
+      "id": 1,
       "nombre": "Molly",
       "edad": "6 años",
       "imagen": "https://i0.wp.com/parachihuahuas.com/wp-content/uploads/2018/02/imagenes-de-perros-chihuahua-23.jpg?fit=958%2C1280&ssl=1",
