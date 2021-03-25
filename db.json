@@ -7,7 +7,9 @@
       "imagen": "https://www.guapet.es/images/mascotas/895376_nyno2.jpg",
       "raza": "Mestiza",
       "gustos": "Comer, dormir, rascar muebles",
-      "comidaFavorita": "Atún"
+      "comidaFavorita": "Atún",
+      "latitud": "19.558533",
+      "longitud": "-96.919231"
     },
     {
       "id": 1,
@@ -16,7 +18,9 @@
       "imagen": "https://i0.wp.com/parachihuahuas.com/wp-content/uploads/2018/02/imagenes-de-perros-chihuahua-23.jpg?fit=958%2C1280&ssl=1",
       "raza": "Chihuahua",
       "gustos": "Jugar con su pelota, pasear",
-      "comidaFavorita": "Pollo"
+      "comidaFavorita": "Pollo",
+      "latitud": "19.524993",
+      "longitud": "-96.889121"
     }
   ]
 }
